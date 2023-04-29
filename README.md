@@ -18,9 +18,9 @@
 |通貨|ソ・ラキメ共和国ドル(SRD)|
 |GDP(自国通貨表示)|188兆3638億SRD|
 
+# 各県について
+各県の人口や特色については、[こちらのページ](./prefectures.md)を参照してください。
+
 # 外部リンク
 1. [ソ・ラキメ共和国公式Discordサーバ](https://discord.gg/b6a2xKQCn6)
 2. [ソ・ラキメ共和国地図作成プロジェクト　Figma](https://www.figma.com/file/dzdxRcoz35KUi4xa5z75XF?node-id=702:184&comments-enabled=1&viewer=1&locale=ja)
-
-# 各県について
-各県の人口や特色については、[こちらのページ]](./prefectures.md)を参照してください。
